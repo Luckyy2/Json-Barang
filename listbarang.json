@@ -1,0 +1,7 @@
+[
+    {"nama": "Minyak", "namaInggris": "Oil", "imageResId": "minyak"},
+    {"nama": "Gula", "namaInggris": "Sugar", "imageResId": "gula"},
+    {"nama": "Beras", "namaInggris": "Rice", "imageResId": "beras"},
+    {"nama": "Sambal", "namaInggris": "Sauce", "imageResId": "sambal"},
+    {"nama": "Kecap", "namaInggris": "Ketchup", "imageResId": "kecap"}
+]
