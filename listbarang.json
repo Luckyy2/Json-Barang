@@ -1,7 +1,7 @@
 [
-    {"nama": "Minyak", "namaInggris": "Oil", "imageId": "minyak"},
-    {"nama": "Gula", "namaInggris": "Sugar", "imageId": "gula"},
-    {"nama": "Beras", "namaInggris": "Rice", "imageId": "beras"},
-    {"nama": "Sambal", "namaInggris": "Sauce", "imageId": "sambal"},
-    {"nama": "Kecap", "namaInggris": "Ketchup", "imageId": "kecap"}
+    {"namaBarang": "Minyak", "namaInggris": "Oil", "imageId": "minyak"},
+    {"namaBarang": "Gula", "namaInggris": "Sugar", "imageId": "gula"},
+    {"namaBarang": "Beras", "namaInggris": "Rice", "imageId": "beras"},
+    {"namaBarang": "Sambal", "namaInggris": "Sauce", "imageId": "sambal"},
+    {"namaBarang": "Kecap", "namaInggris": "Ketchup", "imageId": "kecap"}
 ]
